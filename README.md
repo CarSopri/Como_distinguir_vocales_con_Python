@@ -14,7 +14,8 @@ $\hspace{1cm}$ En este trabajo desarrollaremos la teoría de algunos algoritmos,
 ## Resultados
 Dado un dataset de audios de personas pronunciando las 5 vocales del castellano, se clasifica el espacio de parámetros determinado por las formantes F1 y F2 con un algoritmo KNN, obteniéndose el gráfico que se observa a continuación.
 
-![plot](./Archivos_señales/Clasificación_vocales.png)
+![Clasificacion_vocales](https://github.com/CarSopri/Como_distinguir_vocales_con_Python/assets/99680974/0f0c035a-5881-4ac1-ad1a-909959e08c6f)
+
 
 ## Licencia
 Se licencia este código bajo los términos de la MIT License (ver LICENSE.md para más detalles).
